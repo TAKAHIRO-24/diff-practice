@@ -1,3 +1,3 @@
 # diff-practice
 Git動画講座diff練習用
-変更Staging要(1st)
+複数ファイル変更要(3rd)
